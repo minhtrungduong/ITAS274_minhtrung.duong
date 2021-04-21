@@ -14,7 +14,7 @@ CRUD is the 4 operations that are indispensable for every application with Datab
  
 # II. Deploy the app
 
-## I.1. Requirements of the application 
+## 1. Requirements of the application 
 
 Phones using Android operating system version 7.0 or higher. 
 It must have camera and free memory. The Application are allowed to use the camera and memory of the phone. In addition the phone must be connected to the internet. Because when creating, deleting or editing a contact, the application requests a connection to the Firebase.
