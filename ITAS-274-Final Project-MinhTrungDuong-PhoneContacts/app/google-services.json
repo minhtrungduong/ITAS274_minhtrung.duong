@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "879595460371",
+    "project_id": "itas274-phonecontacts",
+    "storage_bucket": "itas274-phonecontacts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879595460371:android:ebccb6f3ee7706ccd7ace6",
+        "android_client_info": {
+          "package_name": "trungd.ca.itas_274_phonecontacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879595460371-ds00gmfdoqd0hnv494vdfur96u05ccve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkAwc-tUAa1wQQgxKnPAsenNq0mtYhJnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879595460371-ds00gmfdoqd0hnv494vdfur96u05ccve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

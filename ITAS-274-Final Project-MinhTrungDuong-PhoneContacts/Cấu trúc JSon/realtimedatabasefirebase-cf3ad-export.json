@@ -1,0 +1,24 @@
+{
+  "contacts" : {
+    "contact1" : {
+      "email" : "thanhtd@uel.edu.vn",
+      "name" : "Trần Duy Thanh",
+      "phone" : "0987773061"
+    },
+    "contact2" : {
+      "email" : "tuyenht@uel.edu.vn",
+      "name" : "Huỳnh Thanh Tuyền",
+      "phone" : "0907773062"
+    },
+    "contact3" : {
+      "email" : "thanhht@uel.edu.vn",
+      "name" : "Hồ Trung Thành",
+      "phone" : "0907773063"
+    },
+    "contact4" : {
+      "email" : "dieuptx@uel.edu.vn",
+      "name" : "Phạm Thị Xuân Diệu",
+      "phone" : "0907773069"
+    }
+  }
+}
